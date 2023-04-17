@@ -1,5 +1,7 @@
 # L0phtCrack 7 #
 
+### https://github.com/orgs/L0phtCrack/ account dissapeared 04/17/2023 ###
+
 ### Building ###
 
 * Install CMake
